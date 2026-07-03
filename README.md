@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Greedy
 |  |
