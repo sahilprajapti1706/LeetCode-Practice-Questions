@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0875-koko-eating-bananas) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0875-koko-eating-bananas) |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
