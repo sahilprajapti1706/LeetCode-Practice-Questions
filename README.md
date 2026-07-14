@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
