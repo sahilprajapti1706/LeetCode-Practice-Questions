@@ -47,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
