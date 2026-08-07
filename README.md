@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -105,8 +106,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
