@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0051-n-queens) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0051-n-queens) |
@@ -124,5 +128,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
