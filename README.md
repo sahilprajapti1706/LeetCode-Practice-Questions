@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0875-koko-eating-bananas) |
+| [0909-snakes-and-ladders](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0909-snakes-and-ladders) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2187-minimum-time-to-complete-trips](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0909-snakes-and-ladders](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0909-snakes-and-ladders) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0037-sudoku-solver) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0909-snakes-and-ladders](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0909-snakes-and-ladders) |
 <!---LeetCode Topics End-->
