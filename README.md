@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0567-permutation-in-string) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Heap (Priority Queue)
 |  |
