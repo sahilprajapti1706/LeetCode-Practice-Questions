@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0141-linked-list-cycle) |
+| [0328-odd-even-linked-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0328-odd-even-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
