@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0567-permutation-in-string) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0037-sudoku-solver) |
+| [0141-linked-list-cycle](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0141-linked-list-cycle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
