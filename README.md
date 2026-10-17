@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0328-odd-even-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1669-merge-in-between-linked-lists) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
