@@ -16,7 +16,7 @@ class Solution {
         while(temp != null){
             int sum = 0;
 
-            while(temp.val != 0){
+            while(temp != null && temp.val != 0){
                 sum += temp.val;
                 temp = temp.next;
             }
