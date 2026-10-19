@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0909-snakes-and-ladders) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/2187-minimum-time-to-complete-trips) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/2187-minimum-time-to-complete-trips) |
 ## Greedy
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0169-majority-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
