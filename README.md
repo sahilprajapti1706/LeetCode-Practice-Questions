@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0443-string-compression](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0443-string-compression) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0567-permutation-in-string) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0328-odd-even-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1669-merge-in-between-linked-lists) |
@@ -184,4 +187,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
