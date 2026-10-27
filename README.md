@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0909-snakes-and-ladders) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/2187-minimum-time-to-complete-trips) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0169-majority-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0909-snakes-and-ladders](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0909-snakes-and-ladders) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0400-nth-digit](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0400-nth-digit) |
 | [0509-fibonacci-number](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0509-fibonacci-number) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
