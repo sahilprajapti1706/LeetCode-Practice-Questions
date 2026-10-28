@@ -1,43 +1,36 @@
-/*
-// Definition for a Node.
-class Node {
-    public int val;
-    public Node prev;
-    public Node next;
-    public Node child;
-};
-*/
-
 class Solution {
     public Node flatten(Node head) {
+        Node p = head;
 
-       Node p = head;
+        while (p != null) {
+            if (p.child == null) {
+                p = p.next;
+            } else {
+                Node forward = p.next;
+                Node temp = p.child;
 
-       while(p != null){
-        if(p.child != null){
+                // Find the tail of the child list
+                while (temp.next != null) {
+                    temp = temp.next;
+                }
 
-            Node childHead = flatten(p.child);
+                // Connect child list to the original next node
+                temp.next = forward;
 
-            Node forward = p.next;
-            p.child = null;
+                if (forward != null) {
+                    forward.prev = temp;
+                }
 
-            // Get the tail of child tree
-            Node temp = childHead;
-            while(temp.next != null){
-                temp = temp.next;
+                p.next = p.child;
+                p.child.prev = p;
+                p.child = null;
+
+                // Continue traversing the inserted child list
+                p = p.next;
             }
-
-            p.next = childHead;
-            childHead.prev = p;
-            if(forward != null){
-                forward.prev = temp;
-            }
-            temp.next = forward;
         }
-        p = p.next;
-       }
-       return head;
-        
+
+        return head;
     }
 }
 
