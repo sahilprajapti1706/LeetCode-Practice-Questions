@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0078-subsets) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0086-partition-list) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -208,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
