@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0567-permutation-in-string) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0042-trapping-rain-water) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
