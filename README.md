@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0875-koko-eating-bananas) |
 | [0909-snakes-and-ladders](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0909-snakes-and-ladders) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0739-daily-temperatures) |
 ## Graph Theory
 |  |
 | ------- |
