@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0394-decode-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
