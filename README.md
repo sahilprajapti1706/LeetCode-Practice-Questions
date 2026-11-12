@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0901-online-stock-span) |
 ## Graph Theory
 |  |
 | ------- |
@@ -251,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
