@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0909-snakes-and-ladders) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1472-design-browser-history](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1472-design-browser-history) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1472-design-browser-history](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1472-design-browser-history) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1472-design-browser-history](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -265,8 +269,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/sahilprajapti1706/LeetCode-Practice-Questions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
